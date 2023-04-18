@@ -164,3 +164,6 @@ buck-out/
 
 # Custom folders
 frontend/windows
+
+# Custom files
+*.binlog
