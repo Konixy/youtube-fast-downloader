@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "Debug Windows",
-      "cwd": "${workspaceFolder}/frontend",
+      "cwd": "${workspaceFolder}/app",
       "type": "reactnative",
       "request": "launch",
       "platform": "windows"
