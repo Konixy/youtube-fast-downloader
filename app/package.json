@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@tsconfig/react-native": "^2.0.3",
+    "@types/jest": "^29.5.0",
+    "@types/react": "^18.0.35",
+    "@types/react-test-renderer": "^18.0.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "react-native": "^0.71.6",
+    "react-native-windows": "^0.71.6"
+  }
+}
